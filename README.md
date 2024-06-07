@@ -1,2 +1,2 @@
 # Learning_Js
-Learning Javascript from youTube
+A code repo contains my Learning of Javascript from youTube
